@@ -1,4 +1,4 @@
-FROM node:20-bullseye-slim
+FROM node:20-bookworm-slim
 
 WORKDIR /app
 
@@ -27,8 +27,9 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 
 # ── Install dependencies (layer-cached separately from source code) ───────────
 COPY package.json ./
+COPY scripts/patch-fca.js scripts/patch-fca.js
 RUN npm install --legacy-peer-deps
-
+COPY . .
 # ── Copy source code ──────────────────────────────────────────────────────────
 COPY . .
 
