@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=700&lines=🤖+SHAKIL+BOT+V3;💬+Facebook+Messenger+Bot;⚡+266+Commands+Loaded;🇧🇩+Made+by+MD+SHAKIL+HOSSEN" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=700&lines=🤖+SHAKIL+BOT+V3;💬+Facebook+Messenger+Bot;⚡+380+Commands+Loaded;🇧🇩+Made+by+MD+SHAKIL+HOSSEN" alt="Typing SVG">
 
 <br><br>
 
@@ -12,15 +12,15 @@
 [![Platform](https://img.shields.io/badge/Platform-Facebook_Messenger-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
 [![Node](https://img.shields.io/badge/Node.js-v20+-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Status](https://img.shields.io/badge/Status-🟢_ONLINE-brightgreen?style=for-the-badge)](.)
-[![Commands](https://img.shields.io/badge/Commands-266-orange?style=for-the-badge&logo=terminal&logoColor=white)](.)
-[![Events](https://img.shields.io/badge/Events-13-red?style=for-the-badge)](.)
+[![Commands](https://img.shields.io/badge/Commands-380-orange?style=for-the-badge&logo=terminal&logoColor=white)](.)
+[![Events](https://img.shields.io/badge/Events-15-red?style=for-the-badge)](.)
 [![FCA](https://img.shields.io/badge/FCA-xnil--ypb--fca_v1.1.3-blue?style=for-the-badge)](.)
 [![License](https://img.shields.io/badge/License-Custom-yellow?style=for-the-badge)](.)
 
 <br>
 
 > ### 👑 𝗠𝗗 𝗦𝗛𝗔𝗞𝗜𝗟 𝗛𝗢𝗦𝗦𝗘𝗡 — CYBER SHAKIL
-> *The most powerful Bangladeshi Facebook Messenger Bot, built on GoatBot V2*
+> *The most powerful Bangladeshi Facebook Messenger Bot, built on GoatBot V3*
 
 <br>
 
@@ -92,8 +92,8 @@
 ╔══════════════════════════════════════════════════════════╗
 ║                  SHAKIL BOT V3 — STATS                  ║
 ╠══════════════════════════════════════════════════════════╣
-║  📦 Total Commands  :  266                               ║
-║  🎉 Total Events    :  13                                ║
+║  📦 Total Commands  :  380                               ║
+║  🎉 Total Events    :  15                                ║
 ║  🔧 FCA Engine      :  xnil-ypb-fca v1.1.3              ║
 ║  🟢 Node.js         :  v20.20.0                         ║
 ║  📦 Version         :  3.5.35                            ║
@@ -331,7 +331,7 @@ SHAKIL BOT V3 comes with a powerful **CYBER SHAKIL AI Auto Fixer**:
 ```
 -fix <file.js>        → AI scans & fixes a command file
 -fix scan <file.js>   → Scan only (no changes)
--fix scanbot          → Scan ALL 266 commands at once
+-fix scanbot          → Scan ALL 380 commands at once
 -fix create <name>    → AI creates a brand new command
 -fix reload <cmd>     → Hot-reload a command without restart
 -fix backup list      → List all saved backups
@@ -445,7 +445,7 @@ Use the included `render.yaml`. Set `NODE_VERSION=20.20.0` in environment.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+MD+SHAKIL+HOSSEN;SHAKIL+BOT+V3+—+266+Commands;Bangladesh+🇧🇩+Powered+by+AI;All+fake+forks+are+NOT+authorized" alt="Footer Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=800&color=FF6B9D&center=true&vCenter=true&width=600&lines=Made+with+❤️+by+MD+SHAKIL+HOSSEN;SHAKIL+BOT+V3+—+380+Commands;Bangladesh+🇧🇩+Powered+by+AI;All+fake+forks+are+NOT+authorized" alt="Footer Typing SVG">
 
 <br><br>
 
