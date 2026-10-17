@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://files.catbox.moe/dslsa0.jpg" alt="SHAKIL BOT V3 Banner" width="100%">
+<img src="https://files.catbox.moe/1vk65o.jpg" alt="SHAKIL BOT V3 Banner" width="100%">
 
 <br>
 
